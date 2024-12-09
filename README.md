@@ -67,10 +67,10 @@ Here are some key findings from the experiments:
 
 ### Example Plot
 
-![Example Plot](outputs/rumor_spread_k10.png)
+![Example Plot](images/rumor_spread_k10.png)
 
-![Example Plot](outputs/rumor_spread_k100.png)
+![Example Plot](images/rumor_spread_k100.png)
 
-![Example Plot](outputs/rumor_spread_k1000.png)
+![Example Plot](images/rumor_spread_k1000.png)
 
-![Example Plot](outputs/rumor_spread_k10000.png)
+![Example Plot](images/rumor_spread_k10000.png)
